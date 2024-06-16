@@ -1,3 +1,6 @@
 {
-    "livePreview.defaultPreviewPath": "/AP-TOURS/index.html"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "livePreview.defaultPreviewPath": "/index.html"
 }
